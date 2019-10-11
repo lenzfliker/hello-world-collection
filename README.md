@@ -1,1 +1,1 @@
-# ape-kollonta-hacktoberfest-tshirts
+# hello world collection
